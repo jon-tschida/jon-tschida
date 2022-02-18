@@ -1,5 +1,5 @@
 ## Hey there, I'm Jon Tschida 
-![](https://github.com/jon-tschida/jon-tschida/blob/main/readmePic.png?raw=true=150x100)
+
 ### Thanks for stopping by, so who is Jon?
 - I am an aspiring web developer 
 - Currently learning JavaScript, HTML, CSS, and React 
