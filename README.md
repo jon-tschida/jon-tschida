@@ -3,8 +3,11 @@
 ### Thanks for stopping by, so who is Jon?
 - I am an aspiring web developer 
 - Currently learning JavaScript, HTML, CSS, and React 
-- Big fan of video games, space, hockey, and a big soccer guy ⚽️
-- Want connect? Drop a line on [LinkedIn](https://www.linkedin.com/in/jonathan-tschida-991453109/) 
+- Big fan of video games, space, hockey, and a soccer nut ⚽️
+
+### Want more info? 
+- More work info on my [LinkedIn](https://www.linkedin.com/in/jonathan-tschida-991453109/) 
+- Check out my site - [PleaseHireJon.com](https://pleasehirejon.com)
 
 ### How about some stats?
 
