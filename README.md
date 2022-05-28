@@ -2,7 +2,7 @@
 
 ### Thanks for stopping by, so who is Jon?
 - I am an aspiring web developer 
-- Currently learning JavaScript, HTML, CSS, and React 
+- Always learning! Currently honing skills in JavaScript, HTML, CSS, and React.
 - Big fan of video games, space, hockey, and a soccer nut ⚽️
 - I also create music and co-host and produce the podcast Arts & Crafts - [My Music](https://open.spotify.com/artist/6yQD874vpjjDstL099LvWz?si=VT_PDM_NQZCrbjYycmFWnQ) // [Arts & Crafts](https://open.spotify.com/show/5GXgMXs3p95Wj02C6JMzBY?si=W2qZS8nvRde0JBLpPAbzHQ)
 
