@@ -9,7 +9,3 @@
 ### Want more info? 
 - More work info on my [LinkedIn](https://www.linkedin.com/in/jonathan-tschida-991453109/) 
 - Check out my site for finished projects in Vanilla JavaScript and React - [PleaseHireJon.com](https://pleasehirejon.com)
-
-### How about some stats?
-
-<img align="left" alt="Jon Tschida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=jon-tschida&show_icons=true&hide_rank=true&hide_border=true&count_private=true&theme=dark">
