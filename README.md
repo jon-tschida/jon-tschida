@@ -8,6 +8,8 @@
 - Big fan of video games, space, hockey, and a soccer nut (Sporting KC and Wolves FC ⚽️ )
 - I also create music and co-host and produce the podcast Arts & Crafts - [My Music](https://open.spotify.com/artist/6yQD874vpjjDstL099LvWz?si=VT_PDM_NQZCrbjYycmFWnQ) // [Arts & Crafts](https://open.spotify.com/show/5GXgMXs3p95Wj02C6JMzBY?si=W2qZS8nvRde0JBLpPAbzHQ)
 
+<br />
+
 ### Skills 💪
 
 <p align="center">JavaScript • CSS • Front-End Development • Vue JS  • HTML 5 • React JS • Wordpress Development • Tailwind CSS</p>
