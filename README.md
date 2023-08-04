@@ -12,7 +12,7 @@
 
 <br />
 
-### Skills 💪
+<h3 align="center">Skills 💪</h2>
 
 <p align="center">JavaScript • CSS • Front-End Development • Vue JS  • HTML 5 • React JS • Wordpress Development • Tailwind CSS</p>
 
