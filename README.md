@@ -3,7 +3,7 @@
  <img align="right" alt="GIF" width="300px" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 ### So, who is Jon?
-- I am an aspiring Web/React developer
+- I am an aspiring frontend developer
 - Sometimes I do some game development in Godot 🎮
 - Creator of Listify - [Listify Meals](https://listify-meals.com/)
 - Creator of Thoughtful - [Thoughtful](https://thoughtful.cc/)
