@@ -30,7 +30,3 @@
 ### More info ⓘ 
 - More work info on my [LinkedIn](https://www.linkedin.com/in/jonathan-tschida-991453109/) 
 - Check out my site for more finished projects and my resume - [PleaseHireJon.com](https://pleasehirejon.com)
-
-### Stats 📊
-
-[![Jon's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=jon-tschida&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
